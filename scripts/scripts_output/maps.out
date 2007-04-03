@@ -1,0 +1,187 @@
+(ADC, I)
+(ADC, Z)
+(ADC, ZX)
+(ADC, A)
+(ADC, AX)
+(ADC, AY)
+(ADC, IX)
+(ADC, IY)
+
+(AND, I)
+(AND, Z)
+(AND, ZX)
+(AND, A)
+(AND, AX)
+(AND, AY)
+(AND, IX)
+(AND, IY)
+
+(ASL, IM)
+(ASL, Z)
+(ASL, ZX)
+(ASL, A)
+(ASL, AX)
+
+(BCC, I)
+(BCS, I)
+(BEQ, I)
+
+(BIT, Z)
+(BIT, A)
+
+(BMI, I)
+(BNE, I)
+(BPL, I)
+
+(BRK, IM)
+
+(BVC, I)
+(BVS, I)
+
+(CLC, IM)
+(CLD, IM)
+(CLI, IM)
+(CLV, IM)
+
+(CMP, I)
+(CMP, Z)
+(CMP, ZX)
+(CMP, A)
+(CMP, AX)
+(CMP, AY)
+(CMP, IX)
+(CMP, IY)
+
+(CPX, I)
+(CPX, Z)
+(CPX, A)
+
+(CPY, I)
+(CPY, Z)
+(CPY, A)
+
+(DEC, Z)
+(DEC, ZX)
+(DEC, A)
+(DEC, AX)
+
+(DEX, IM)
+(DEY, IM)
+
+(EOR, I)
+(EOR, Z)
+(EOR, ZX)
+(EOR, A)
+(EOR, AX)
+(EOR, AY)
+(EOR, IX)
+(EOR, IY)
+
+(INC, Z)
+(INC, ZX)
+(INC, A)
+(INC, AX)
+
+(INX, IM)
+(INY, IM)
+
+(JMP, A)
+(JMP, IN)
+
+(JSR, A)
+
+(LDA, I)
+(LDA, Z)
+(LDA, ZX)
+(LDA, A)
+(LDA, AX)
+(LDA, AY)
+(LDA, IX)
+(LDA, IY)
+
+(LDX, I)
+(LDX, Z)
+(LDX, ZY)
+(LDX, A)
+(LDX, AY)
+
+(LDY, I)
+(LDY, Z)
+(LDY, ZX)
+(LDY, A)
+(LDY, AX)
+
+(LSR, A)
+(LSR, Z)
+(LSR, ZX)
+(LSR, AC)
+(LSR, AX)
+
+(NOP, IM)
+
+(ORA, I)
+(ORA, Z)
+(ORA, ZX)
+(ORA, A)
+(ORA, AX)
+(ORA, AY)
+(ORA, IX)
+(ORA, IY)
+
+(PHA, IM)
+(PHP, IM)
+
+(PLA, IM)
+(PLP, IM)
+
+(ROL, AC)
+(ROL, Z)
+(ROL, ZX)
+(ROL, A)
+(ROL, AX)
+
+(ROR, AC)
+(ROR, Z)
+(ROR, ZX)
+(ROR, A)
+(ROR, AX)
+
+(RTI, IM)
+(RTS, IM)
+
+(SBC, I)
+(SBC, Z)
+(SBC, ZX)
+(SBC, A)
+(SBC, AX)
+(SBC, AY)
+(SBC, IX)
+(SBC, IY)
+
+(SEC, IM)
+(SED, IM)
+(SEI, IM)
+
+(STA, Z)
+(STA, ZX)
+(STA, A)
+(STA, AX)
+(STA, AY)
+(STA, IX)
+(STA, IY)
+
+(STX, Z)
+(STX, ZY)
+(STX, A)
+
+(STY, Z)
+(STY, ZY)
+(STY, A)
+
+(TAX, IM)
+(TAY, IM)
+
+(TSX, IM)
+(TXA, IM)
+(TXS, IM)
+(TYA, IM)
